@@ -65,3 +65,7 @@ li {
   padding-right: 500px;
   font-size: 13px;
 }
+
+button {
+  float: right;
+}
